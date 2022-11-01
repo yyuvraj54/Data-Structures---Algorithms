@@ -1,0 +1,1 @@
+mid->next=NULL;
