@@ -6,7 +6,8 @@ string Reverse(string str,int s,int n){
     if (s>n){
         return str;
     }
-    
+
+// Swaping
     char temp=str[s];
     str[s]=str[n];
     str[n]=temp;

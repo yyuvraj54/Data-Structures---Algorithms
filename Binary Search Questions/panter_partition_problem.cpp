@@ -1,4 +1,8 @@
 
+#include <iostream>
+using namespace std;
+
+
 int sumOfArr(vector<int> arr,int n){
     int sum=0;
     for(int i=0; i<n; i++){
