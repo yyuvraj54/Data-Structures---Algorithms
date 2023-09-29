@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+//Creating a Node in LL
 class Node{
     public:
     Node* next;
