@@ -115,6 +115,7 @@ int main()
     Node* Head=head;
     Node* Tail=head;
 
+// All nodes of LLs
     InsertAtTail(Tail,101); 
     InsertAtTail(Tail,102);
     InsertAtTail(Tail,103);
