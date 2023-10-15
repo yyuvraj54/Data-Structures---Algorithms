@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Creating a Node in Linked Lists -->>
+//Creating a Node in Linked Lists <<-->>
 class Node{
     public:
     Node* next;
